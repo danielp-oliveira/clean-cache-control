@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/danielp-oliveira/clean-cache-control/issues"
   },
-  "homepage": "https://github.com/danielp-oliveira/clean-cache-control#readme"
+  "homepage": "https://github.com/danielp-oliveira/clean-cache-control#readme",
+  "devDependencies": {
+    "@types/node": "^14.0.14",
+    "typescript": "^3.9.5"
+  }
 }
