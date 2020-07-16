@@ -1,4 +1,4 @@
-import { SavePurchases } from '@/domain'
+import { SavePurchases } from '@/domain/usecases'
 import { CacheStore } from '@/data/protocols/cache'
 import { LocalSavePurchases } from '@/data/usecases'
 
